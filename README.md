@@ -62,7 +62,7 @@ run train_and_detection/train.py
 
 ### PS：  
 ### A simple example train or test 3DCNN：  
-My code is too redundant，a simple example as follows：
+My code is too redundant，a simple example as follows：  
 https://github.com/TianzhongSong/3D-ConvNets-for-Action-Recognition  
 Change /models/densenet_3d.py，and replace 3*3*3 Conv with 1*3*3 Conv and 3*3*1 Conv, modify in accordance with 3D_DenseNet，then you can train your own model.
 
