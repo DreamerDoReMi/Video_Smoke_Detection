@@ -60,7 +60,9 @@ run train_and_detection/train.py
  ![index](https://github.com/xjg0124/Video_Smoke_Detection/raw/master/img/Result2.png)
 
 
-
+### PS：  
 ### A simple example train or test 3DCNN：  
-https://github.com/TianzhongSong/3D-ConvNets-for-Action-Recognition
+My code is too redundant，a simple example as follows：
+https://github.com/TianzhongSong/3D-ConvNets-for-Action-Recognition  
+Change /models/densenet_3d.py，and replace 3*3*3 Conv with 1*3*3 Conv and 3*3*1 Conv, modify in accordance with 3D_DenseNet，then you can train your own model.
 
