@@ -59,5 +59,6 @@ run train_and_detection/train.py
 
  ![index](https://github.com/xjg0124/Video_Smoke_Detection/raw/master/img/Result2.png)
 
-
+A simple example train or test 3DCNN：
+https://github.com/TianzhongSong/3D-ConvNets-for-Action-Recognition
 
